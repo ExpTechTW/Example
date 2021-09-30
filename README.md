@@ -1,6 +1,8 @@
 # ExpTech 探索科技 GitHub
 
-這裡能找到 ExpTech 發佈的代碼
+編程、設計、創意、實用
+<br>
+努力成為真正的高手
 
 <img alt="Discord" src="https://img.shields.io/discord/857181425908318218">
 <br />
