@@ -56,6 +56,6 @@
 
 - Web (Hack)
 
-• 開發人員 - smile [終止合作 21.08.22]
+• 開發人員 - smile
 
 - Discord Bot (JavaScript)
