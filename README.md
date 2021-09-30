@@ -14,7 +14,7 @@
 
   <a href="https://github.com/ExpTech-tw/Example/">
 
-    <img src="image/ExpTech.jpg" alt="ExpTech" width="150" height="150">
+    <img src="image/ExpTech.png" alt="ExpTech" width="150" height="150">
 
   </a>
 
