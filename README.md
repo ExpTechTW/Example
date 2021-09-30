@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/whes1015/ExpTech/">
+  <a href="https://github.com/ExpTech-tw/Example/">
 
     <img src="image/ExpTech.jpg" alt="ExpTech" width="150" height="150">
 
@@ -28,7 +28,7 @@
 
     ·
 
-    <a href="https://github.com/whes1015/ExpTech/issues">錯誤回報</a>
+    <a href="https://github.com/ExpTech-tw/Example/issues">錯誤回報</a>
 
     ·
 
