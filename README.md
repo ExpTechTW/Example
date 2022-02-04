@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ExpTech-tw/Example/">
-    <img src="image/ExpTech.png" alt="ExpTech" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/ExpTechTW/Example/%E4%B8%BB%E8%A6%81%E7%9A%84-(main)/image/ExpTech.png" alt="ExpTech" width="150" height="150">
   </a>
   <h3 align="center">ExpTech</h3>
   <p align="center">
