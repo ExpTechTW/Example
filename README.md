@@ -3,7 +3,7 @@
 
 ------
 
-這是一個 ExpTech Github 模板
+- 這是一個 ExpTech Github 模板
 
 ## 索引
 - [貢獻者](#貢獻者)
